@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\HomeWork\Projects\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\HomeWork\Projects\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.Form1.resources
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.Properties.Resources.resources
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\HomeWork\Projects\Decorator\Decorator\obj\Debug\Decorator.pdb
